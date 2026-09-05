@@ -1,6 +1,0 @@
-﻿IP地址,端口号,TLS,丢包率,扫描方式,网络延迟,下载速度,出站IP,IP类型,原始输入,数据中心,源IP位置,地区,城市,ASN号码,ASN组织
-103.195.188.229,443,true,0%,HTTPing,240ms,18.01MB/s,2001:df4:c140:1f::38b,IPv6,103.195.188.229,SIN,SG,Asia Pacific,Singapore,AS134677,Dromatics Systems Pte Ltd
-103.195.191.70,443,true,0%,HTTPing,241ms,17.68MB/s,2001:df4:c140:1f::473,IPv6,103.195.191.70,SIN,SG,Asia Pacific,Singapore,AS134677,Dromatics Systems Pte Ltd
-136.85.58.238,443,true,0%,HTTPing,202ms,14.14MB/s,2600:1900:4080:8::,IPv6,136.85.58.238,SIN,SG,Asia Pacific,Singapore,AS396982,Google LLC
-82.109.96.194,443,true,0%,HTTPing,236ms,12.66MB/s,2a0a:d687:f007::c2,IPv6,82.109.96.194,SIN,SG,Asia Pacific,Singapore,AS142433,DATAWAVE GLOBAL LLC
-195.172.137.20,8443,true,0%,HTTPing,197ms,10.15MB/s,2a13:edc0:1:54::a,IPv6,195.172.137.20,SIN,SG,Asia Pacific,Singapore,AS216245,Cyberjet Pte. Ltd.
