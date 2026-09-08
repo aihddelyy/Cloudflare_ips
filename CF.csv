@@ -1,5 +1,49 @@
 ﻿IP地址,端口号,网络延迟,下载速度,数据中心,地区,城市
-172.64.53.211,443,138ms,63.52MB/s,NRT,Asia Pacific,Tokyo
-108.162.198.239,443,148ms,49.18MB/s,NRT,Asia Pacific,Tokyo
-172.64.229.186,443,142ms,19.40MB/s,NRT,Asia Pacific,Tokyo
-162.159.44.127,443,145ms,3.34MB/s,NRT,Asia Pacific,Tokyo
+172.67.77.50,443,500ms,0.11MB/s,HKG,Asia Pacific,Hong Kong
+104.26.10.137,443,792ms,0.11MB/s,HKG,Asia Pacific,Hong Kong
+162.159.130.3,443,1090ms,0.11MB/s,HKG,Asia Pacific,Hong Kong
+104.20.19.178,443,1238ms,0.10MB/s,HKG,Asia Pacific,Hong Kong
+162.159.128.79,443,1294ms,0.10MB/s,HKG,Asia Pacific,Hong Kong
+104.26.4.192,443,755ms,0.09MB/s,HKG,Asia Pacific,Hong Kong
+104.20.25.229,443,1081ms,0.08MB/s,HKG,Asia Pacific,Hong Kong
+172.67.72.239,443,642ms,0.07MB/s,HKG,Asia Pacific,Hong Kong
+162.159.132.112,443,820ms,0.07MB/s,HKG,Asia Pacific,Hong Kong
+172.67.64.88,443,1366ms,0.07MB/s,HKG,Asia Pacific,Hong Kong
+172.67.68.111,443,548ms,0.06MB/s,HKG,Asia Pacific,Hong Kong
+162.159.149.107,443,657ms,0.05MB/s,HKG,Asia Pacific,Hong Kong
+104.20.20.85,443,870ms,0.04MB/s,HKG,Asia Pacific,Hong Kong
+104.26.1.111,443,1497ms,0.04MB/s,HKG,Asia Pacific,Hong Kong
+104.20.30.161,443,846ms,0.03MB/s,HKG,Asia Pacific,Hong Kong
+104.26.9.44,443,1524ms,0.03MB/s,HKG,Asia Pacific,Hong Kong
+104.26.12.254,443,1235ms,0.02MB/s,HKG,Asia Pacific,Hong Kong
+162.159.150.215,443,1278ms,0.01MB/s,HKG,Asia Pacific,Hong Kong
+104.20.16.243,443,249ms,测速失败（速率限制）,HKG,Asia Pacific,Hong Kong
+104.20.18.111,443,263ms,,HKG,Asia Pacific,Hong Kong
+162.159.147.43,443,304ms,,HKG,Asia Pacific,Hong Kong
+162.159.158.140,443,313ms,,HKG,Asia Pacific,Hong Kong
+162.159.152.223,443,315ms,,HKG,Asia Pacific,Hong Kong
+162.159.148.183,443,480ms,测速失败（速率限制）,HKG,Asia Pacific,Hong Kong
+162.159.144.0,443,482ms,测速失败（速率限制）,HKG,Asia Pacific,Hong Kong
+104.26.11.179,443,502ms,,HKG,Asia Pacific,Hong Kong
+104.26.5.132,443,611ms,,HKG,Asia Pacific,Hong Kong
+104.20.17.176,443,612ms,,HKG,Asia Pacific,Hong Kong
+104.20.21.113,443,618ms,,HKG,Asia Pacific,Hong Kong
+162.159.129.30,443,699ms,,HKG,Asia Pacific,Hong Kong
+162.159.134.105,443,832ms,,HKG,Asia Pacific,Hong Kong
+104.26.6.190,443,856ms,,HKG,Asia Pacific,Hong Kong
+104.26.13.115,443,870ms,,HKG,Asia Pacific,Hong Kong
+104.26.7.200,443,887ms,,HKG,Asia Pacific,Hong Kong
+104.20.29.246,443,916ms,,HKG,Asia Pacific,Hong Kong
+162.159.154.15,443,922ms,,HKG,Asia Pacific,Hong Kong
+172.67.79.209,443,929ms,,HKG,Asia Pacific,Hong Kong
+104.26.0.88,443,931ms,,HKG,Asia Pacific,Hong Kong
+104.20.22.10,443,977ms,,HKG,Asia Pacific,Hong Kong
+172.67.75.15,443,997ms,,HKG,Asia Pacific,Hong Kong
+172.67.70.39,443,1026ms,,HKG,Asia Pacific,Hong Kong
+162.159.137.102,443,1071ms,,HKG,Asia Pacific,Hong Kong
+162.159.153.134,443,1103ms,,HKG,Asia Pacific,Hong Kong
+104.26.8.190,443,1125ms,,HKG,Asia Pacific,Hong Kong
+162.159.139.8,443,1266ms,,HKG,Asia Pacific,Hong Kong
+172.67.73.178,443,1275ms,,HKG,Asia Pacific,Hong Kong
+162.159.138.23,443,1561ms,,HKG,Asia Pacific,Hong Kong
+104.20.26.249,443,1672ms,,HKG,Asia Pacific,Hong Kong
