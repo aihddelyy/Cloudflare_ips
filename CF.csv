@@ -1,41 +1,49 @@
 ﻿IP地址,端口号,网络延迟,扫描方式,下载速度,数据中心,落地区域,地区,城市
-162.159.16.228,443,168ms,HTTPing,41.04MB/s,SIN,SG,Asia Pacific,Singapore
-172.64.154.110,443,177ms,HTTPing,34.41MB/s,SIN,SG,Asia Pacific,Singapore
-172.64.147.139,443,168ms,HTTPing,33.72MB/s,SIN,SG,Asia Pacific,Singapore
-162.159.7.210,443,174ms,HTTPing,33.14MB/s,SIN,SG,Asia Pacific,Singapore
-172.64.35.164,443,173ms,HTTPing,32.44MB/s,SIN,SG,Asia Pacific,Singapore
-162.159.18.135,443,175ms,HTTPing,30.13MB/s,SIN,SG,Asia Pacific,Singapore
-172.64.49.112,443,173ms,HTTPing,29.02MB/s,SIN,SG,Asia Pacific,Singapore
-104.18.44.29,443,174ms,HTTPing,26.82MB/s,SIN,SG,Asia Pacific,Singapore
-162.159.1.194,443,166ms,HTTPing,24.76MB/s,SIN,SG,Asia Pacific,Singapore
-162.159.27.203,443,182ms,HTTPing,6.69MB/s,SIN,SG,Asia Pacific,Singapore
-172.64.50.93,443,169ms,HTTPing,,SIN,SG,Asia Pacific,Singapore
-172.64.48.120,443,171ms,HTTPing,,SIN,SG,Asia Pacific,Singapore
-162.159.25.148,443,172ms,HTTPing,连接错误,SIN,SG,Asia Pacific,Singapore
-172.64.151.34,443,173ms,HTTPing,连接错误,SIN,SG,Asia Pacific,Singapore
-162.159.43.49,443,174ms,HTTPing,,SIN,SG,Asia Pacific,Singapore
-104.18.35.146,443,175ms,HTTPing,,SIN,SG,Asia Pacific,Singapore
-162.159.0.229,443,175ms,HTTPing,,SIN,SG,Asia Pacific,Singapore
-162.159.17.57,443,175ms,HTTPing,,SIN,SG,Asia Pacific,Singapore
-162.159.58.167,443,175ms,HTTPing,,SIN,SG,Asia Pacific,Singapore
-162.159.60.237,443,175ms,HTTPing,,SIN,SG,Asia Pacific,Singapore
-172.64.144.202,443,175ms,HTTPing,,SIN,SG,Asia Pacific,Singapore
-172.64.157.173,443,175ms,HTTPing,,SIN,SG,Asia Pacific,Singapore
-173.245.58.91,443,175ms,HTTPing,,SIN,SG,Asia Pacific,Singapore
-104.18.41.27,443,176ms,HTTPing,,SIN,SG,Asia Pacific,Singapore
-162.159.10.190,443,177ms,HTTPing,,SIN,SG,Asia Pacific,Singapore
-162.159.24.20,443,177ms,HTTPing,,SIN,SG,Asia Pacific,Singapore
-162.159.42.98,443,177ms,HTTPing,,SIN,SG,Asia Pacific,Singapore
-162.159.48.210,443,177ms,HTTPing,,SIN,SG,Asia Pacific,Singapore
-162.159.35.248,443,178ms,HTTPing,,SIN,SG,Asia Pacific,Singapore
-162.159.9.137,443,178ms,HTTPing,,SIN,SG,Asia Pacific,Singapore
-162.159.12.154,443,179ms,HTTPing,,SIN,SG,Asia Pacific,Singapore
-162.159.11.72,443,182ms,HTTPing,,SIN,SG,Asia Pacific,Singapore
-104.18.37.180,443,183ms,HTTPing,,SIN,SG,Asia Pacific,Singapore
-104.18.33.70,443,184ms,HTTPing,,SIN,SG,Asia Pacific,Singapore
-162.159.8.182,443,184ms,HTTPing,,SIN,SG,Asia Pacific,Singapore
-172.64.153.49,443,184ms,HTTPing,,SIN,SG,Asia Pacific,Singapore
-162.159.46.114,443,185ms,HTTPing,,SIN,SG,Asia Pacific,Singapore
-172.64.33.76,443,185ms,HTTPing,,SIN,SG,Asia Pacific,Singapore
-162.159.34.87,443,192ms,HTTPing,,SIN,SG,Asia Pacific,Singapore
-172.64.149.92,443,209ms,HTTPing,,SIN,SG,Asia Pacific,Singapore
+104.20.25.177,443,147ms,HTTPing,41.74MB/s,HKG,HK,Asia Pacific,Hong Kong
+172.67.77.22,443,141ms,HTTPing,36.69MB/s,HKG,HK,Asia Pacific,Hong Kong
+104.20.21.250,443,143ms,HTTPing,34.28MB/s,HKG,HK,Asia Pacific,Hong Kong
+162.159.152.185,443,147ms,HTTPing,33.46MB/s,HKG,HK,Asia Pacific,Hong Kong
+162.159.146.40,443,152ms,HTTPing,29.56MB/s,HKG,HK,Asia Pacific,Hong Kong
+104.20.22.15,443,156ms,HTTPing,27.18MB/s,HKG,HK,Asia Pacific,Hong Kong
+162.159.141.233,443,139ms,HTTPing,26.94MB/s,HKG,HK,Asia Pacific,Hong Kong
+172.67.69.215,443,146ms,HTTPing,23.67MB/s,HKG,HK,Asia Pacific,Hong Kong
+104.26.12.95,443,152ms,HTTPing,22.19MB/s,HKG,HK,Asia Pacific,Hong Kong
+104.20.19.7,443,147ms,HTTPing,22.12MB/s,HKG,HK,Asia Pacific,Hong Kong
+172.67.70.120,443,145ms,HTTPing,,HKG,HK,Asia Pacific,Hong Kong
+104.20.31.183,443,146ms,HTTPing,,HKG,HK,Asia Pacific,Hong Kong
+104.26.15.10,443,146ms,HTTPing,,HKG,HK,Asia Pacific,Hong Kong
+162.159.148.131,443,146ms,HTTPing,,HKG,HK,Asia Pacific,Hong Kong
+172.67.79.30,443,146ms,HTTPing,,HKG,HK,Asia Pacific,Hong Kong
+162.159.154.203,443,147ms,HTTPing,,HKG,HK,Asia Pacific,Hong Kong
+172.65.236.194,443,148ms,HTTPing,,HKG,HK,Asia Pacific,Hong Kong
+104.20.28.136,443,150ms,HTTPing,,HKG,HK,Asia Pacific,Hong Kong
+162.159.150.33,443,150ms,HTTPing,,HKG,HK,Asia Pacific,Hong Kong
+162.159.139.157,443,151ms,HTTPing,,HKG,HK,Asia Pacific,Hong Kong
+172.67.64.133,443,151ms,HTTPing,,HKG,HK,Asia Pacific,Hong Kong
+104.26.2.41,443,152ms,HTTPing,,HKG,HK,Asia Pacific,Hong Kong
+162.159.129.195,443,152ms,HTTPing,,HKG,HK,Asia Pacific,Hong Kong
+104.20.20.66,443,153ms,HTTPing,,HKG,HK,Asia Pacific,Hong Kong
+104.26.3.184,443,153ms,HTTPing,,HKG,HK,Asia Pacific,Hong Kong
+104.26.4.46,443,153ms,HTTPing,,HKG,HK,Asia Pacific,Hong Kong
+162.159.157.209,443,153ms,HTTPing,,HKG,HK,Asia Pacific,Hong Kong
+104.26.1.141,443,154ms,HTTPing,,HKG,HK,Asia Pacific,Hong Kong
+104.26.13.157,443,154ms,HTTPing,,HKG,HK,Asia Pacific,Hong Kong
+104.26.14.6,443,154ms,HTTPing,,HKG,HK,Asia Pacific,Hong Kong
+104.26.7.114,443,154ms,HTTPing,,HKG,HK,Asia Pacific,Hong Kong
+162.159.143.242,443,154ms,HTTPing,,HKG,HK,Asia Pacific,Hong Kong
+162.159.145.227,443,154ms,HTTPing,,HKG,HK,Asia Pacific,Hong Kong
+162.159.153.248,443,154ms,HTTPing,,HKG,HK,Asia Pacific,Hong Kong
+172.67.65.90,443,154ms,HTTPing,,HKG,HK,Asia Pacific,Hong Kong
+104.20.24.97,443,155ms,HTTPing,,HKG,HK,Asia Pacific,Hong Kong
+162.159.155.185,443,155ms,HTTPing,,HKG,HK,Asia Pacific,Hong Kong
+104.26.8.7,443,156ms,HTTPing,,HKG,HK,Asia Pacific,Hong Kong
+162.159.132.75,443,156ms,HTTPing,,HKG,HK,Asia Pacific,Hong Kong
+162.159.140.51,443,156ms,HTTPing,,HKG,HK,Asia Pacific,Hong Kong
+162.159.138.159,443,157ms,HTTPing,,HKG,HK,Asia Pacific,Hong Kong
+162.159.158.136,443,157ms,HTTPing,,HKG,HK,Asia Pacific,Hong Kong
+104.20.26.91,443,158ms,HTTPing,,HKG,HK,Asia Pacific,Hong Kong
+104.20.29.177,443,158ms,HTTPing,,HKG,HK,Asia Pacific,Hong Kong
+104.26.6.35,443,159ms,HTTPing,,HKG,HK,Asia Pacific,Hong Kong
+162.159.137.114,443,159ms,HTTPing,,HKG,HK,Asia Pacific,Hong Kong
+172.67.73.84,443,159ms,HTTPing,,HKG,HK,Asia Pacific,Hong Kong
+162.159.149.4,443,161ms,HTTPing,,HKG,HK,Asia Pacific,Hong Kong
