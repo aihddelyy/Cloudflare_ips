@@ -1,7 +1,4 @@
 ﻿IP地址,端口号,网络延迟,扫描方式,下载速度,数据中心,落地区域,地区,城市
-172.64.229.135,443,566ms,HTTPing,56.44MB/s,NRT,JP,Asia Pacific,Tokyo
-172.64.53.124,443,112ms,HTTPing,47.07MB/s,NRT,JP,Asia Pacific,Tokyo
-162.159.45.125,443,116ms,HTTPing,45.88MB/s,NRT,JP,Asia Pacific,Tokyo
-162.159.44.4,443,135ms,HTTPing,44.01MB/s,NRT,JP,Asia Pacific,Tokyo
-162.159.38.199,443,131ms,HTTPing,37.48MB/s,NRT,JP,Asia Pacific,Tokyo
-108.162.198.69,443,136ms,HTTPing,34.64MB/s,NRT,JP,Asia Pacific,Tokyo
+162.159.39.203,443,108ms,HTTPing,66.66MB/s,NRT,JP,Asia Pacific,Tokyo
+162.159.44.198,443,151ms,HTTPing,45.22MB/s,NRT,JP,Asia Pacific,Tokyo
+162.159.38.50,443,153ms,HTTPing,44.63MB/s,NRT,JP,Asia Pacific,Tokyo
