@@ -1,6 +1,5 @@
 IP地址,端口号,TLS,丢包率,扫描方式,网络延迟,下载速度,出站IP,IP类型,原始输入,数据中心,源IP位置,地区,城市,ASN号码,ASN组织,访问协议,TLS版本,SNI,HTTP版本,WARP,Gateway,RBI,密钥交换,时间戳
-43.175.131.30,443,true,0%,TCPing,39ms,84.70MB/s,43.168.151.19,IPv4,43.175.131.30,HKG,HK,Asia Pacific,Hong Kong,AS139341,ACE,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1792152063.000
-103.242.15.87,443,true,0%,TCPing,36ms,2.32MB/s,103.242.15.87,IPv4,103.242.15.87,HKG,HK,Asia Pacific,Hong Kong,AS401696,cognetcloud INC,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1792152063.000
-85.137.241.65,443,true,0%,TCPing,52ms,0.11MB/s,85.137.241.65,IPv4,85.137.241.65,HKG,HK,Asia Pacific,Hong Kong,AS401701,cognetcloud INC,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1792152063.000
-103.101.0.73,443,true,0%,TCPing,502ms,0.02MB/s,103.101.0.73,IPv4,103.101.0.73,HKG,HK,Asia Pacific,Hong Kong,AS6206,Netrouting B.V.,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1792152065.000
-183.87.146.5,443,true,0%,TCPing,720ms,2.35MB/s,183.87.146.5,IPv4,183.87.146.5,HKG,HK,Asia Pacific,Hong Kong,AS136907,HUAWEI CLOUDS,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1792152066.000
+43.175.131.30,443,true,0%,TCPing,25ms,87.97MB/s,43.168.151.221,IPv4,43.175.131.30,HKG,HK,Asia Pacific,Hong Kong,AS139341,ACE,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1792159263.000
+103.242.15.87,443,true,0%,TCPing,28ms,2.18MB/s,103.242.15.87,IPv4,103.242.15.87,HKG,HK,Asia Pacific,Hong Kong,AS401696,cognetcloud INC,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1792159263.000
+85.137.241.65,443,true,0%,TCPing,76ms,0.02MB/s,85.137.241.65,IPv4,85.137.241.65,HKG,HK,Asia Pacific,Hong Kong,AS401701,cognetcloud INC,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1792159266.000
+103.101.0.73,443,true,0%,TCPing,201ms,0.01MB/s,103.101.0.73,IPv4,103.101.0.73,HKG,HK,Asia Pacific,Hong Kong,AS6206,Netrouting B.V.,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1792159265.000
