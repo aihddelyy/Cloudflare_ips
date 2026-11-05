@@ -1,41 +1,22 @@
-﻿IP地址,端口号,网络延迟,扫描方式,数据中心,落地区域,地区,城市
-104.29.111.205,443,147ms,TCPing,FRA,DE,Europe,Frankfurt
-104.29.125.19,443,152ms,TCPing,FRA,DE,Europe,Frankfurt
-108.162.198.78,443,154ms,TCPing,SJC,US,North America,San Jose
-198.41.219.171,443,155ms,TCPing,SJC,US,North America,San Jose
-104.17.149.121,443,156ms,TCPing,SJC,US,North America,San Jose
-104.17.132.189,443,157ms,TCPing,SJC,US,North America,San Jose
-104.17.130.82,443,158ms,TCPing,SJC,US,North America,San Jose
-162.159.237.144,443,158ms,TCPing,SJC,US,North America,San Jose
-172.64.79.26,443,159ms,TCPing,SJC,US,North America,San Jose
-172.67.94.77,443,159ms,TCPing,LAX,US,North America,Los Angeles
-104.17.136.22,443,160ms,TCPing,SJC,US,North America,San Jose
-104.19.130.30,443,160ms,TCPing,LAX,US,North America,Los Angeles
-104.19.196.22,443,160ms,TCPing,LAX,US,North America,Los Angeles
-104.21.218.197,443,160ms,TCPing,LAX,US,North America,Los Angeles
-162.159.207.99,443,160ms,TCPing,LAX,US,North America,Los Angeles
-104.17.133.109,443,161ms,TCPing,SJC,US,North America,San Jose
-104.17.146.49,443,161ms,TCPing,SJC,US,North America,San Jose
-104.20.44.184,443,161ms,TCPing,LAX,US,North America,Los Angeles
-104.24.130.34,443,161ms,TCPing,LAX,US,North America,Los Angeles
-172.64.69.72,443,161ms,TCPing,LAX,US,North America,Los Angeles
-104.17.130.87,443,158ms,TCPing,SJC,US,North America,San Jose
-162.159.160.69,443,158ms,TCPing,FRA,DE,Europe,Frankfurt
-172.67.153.156,443,158ms,TCPing,LAX,US,North America,Los Angeles
-104.21.127.20,443,159ms,TCPing,LAX,US,North America,Los Angeles
-104.24.63.1,443,159ms,TCPing,LAX,US,North America,Los Angeles
-104.17.142.171,443,160ms,TCPing,SJC,US,North America,San Jose
-104.17.157.239,443,160ms,TCPing,SJC,US,North America,San Jose
-104.18.61.46,443,160ms,TCPing,LAX,US,North America,Los Angeles
-104.24.243.7,443,160ms,TCPing,LAX,US,North America,Los Angeles
-104.16.15.113,443,161ms,TCPing,LAX,US,North America,Los Angeles
-104.19.5.199,443,161ms,TCPing,LAX,US,North America,Los Angeles
-104.17.121.73,443,162ms,TCPing,LAX,US,North America,Los Angeles
-104.17.129.65,443,162ms,TCPing,SJC,US,North America,San Jose
-104.18.159.208,443,162ms,TCPing,LAX,US,North America,Los Angeles
-104.18.246.85,443,162ms,TCPing,LAX,US,North America,Los Angeles
-104.24.208.45,443,162ms,TCPing,LAX,US,North America,Los Angeles
-104.25.56.212,443,162ms,TCPing,LAX,US,North America,Los Angeles
-23.227.60.122,443,162ms,TCPing,LAX,US,North America,Los Angeles
-104.17.139.249,443,163ms,TCPing,SJC,US,North America,San Jose
-104.18.197.146,443,163ms,TCPing,LAX,US,North America,Los Angeles
+﻿IP地址,端口号,网络延迟,扫描方式,下载速度,数据中心,落地区域,地区,城市
+172.64.229.74,443,131ms,TCPing,46.10MB/s,NRT,JP,Asia Pacific,Tokyo
+162.159.4.148,443,80ms,TCPing,42.26MB/s,SIN,SG,Asia Pacific,Singapore
+172.64.159.137,443,79ms,TCPing,42.17MB/s,SIN,SG,Asia Pacific,Singapore
+162.159.13.37,443,82ms,TCPing,42.15MB/s,SIN,SG,Asia Pacific,Singapore
+162.159.62.38,443,79ms,TCPing,36.73MB/s,SIN,SG,Asia Pacific,Singapore
+162.159.20.252,443,83ms,TCPing,33.60MB/s,SIN,SG,Asia Pacific,Singapore
+162.159.14.65,443,78ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+104.18.35.1,443,79ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+104.18.43.130,443,79ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+104.18.46.34,443,79ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+162.159.15.234,443,79ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+162.159.32.19,443,79ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+162.159.6.51,443,79ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+162.159.60.247,443,80ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+162.159.7.253,443,80ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+172.64.157.41,443,80ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+104.18.33.222,443,81ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+162.159.18.159,443,81ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+162.159.41.201,443,81ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+162.159.8.20,443,81ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+172.64.144.158,443,81ms,TCPing,,SIN,SG,Asia Pacific,Singapore
