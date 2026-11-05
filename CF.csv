@@ -1,26 +1,41 @@
-﻿IP地址,端口号,网络延迟,扫描方式,下载速度,数据中心,落地区域,地区,城市
-162.159.45.237,443,58ms,TCPing,87.90MB/s,NRT,JP,Asia Pacific,Tokyo
-172.64.229.195,443,114ms,TCPing,51.90MB/s,NRT,JP,Asia Pacific,Tokyo
-172.64.53.115,443,71ms,TCPing,50.24MB/s,NRT,JP,Asia Pacific,Tokyo
-172.64.52.23,443,67ms,TCPing,37.86MB/s,NRT,JP,Asia Pacific,Tokyo
-162.159.39.126,443,71ms,TCPing,27.01MB/s,NRT,JP,Asia Pacific,Tokyo
-162.159.14.139,443,86ms,TCPing,39.73MB/s,SIN,SG,Asia Pacific,Singapore
-198.41.223.41,443,84ms,TCPing,34.26MB/s,SIN,SG,Asia Pacific,Singapore
-162.159.32.102,443,112ms,TCPing,31.17MB/s,SIN,SG,Asia Pacific,Singapore
-172.64.49.131,443,79ms,TCPing,28.54MB/s,SIN,SG,Asia Pacific,Singapore
-108.162.194.142,443,97ms,TCPing,28.20MB/s,SIN,SG,Asia Pacific,Singapore
-172.64.41.63,443,90ms,TCPing,0.82MB/s,SIN,SG,Asia Pacific,Singapore
-104.18.45.175,443,82ms,TCPing,,SIN,SG,Asia Pacific,Singapore
-162.159.8.33,443,85ms,TCPing,,SIN,SG,Asia Pacific,Singapore
-162.159.35.66,443,87ms,TCPing,,SIN,SG,Asia Pacific,Singapore
-172.64.145.253,443,87ms,TCPing,,SIN,SG,Asia Pacific,Singapore
-173.245.58.183,443,88ms,TCPing,,SIN,SG,Asia Pacific,Singapore
-198.41.222.242,443,89ms,TCPing,,SIN,SG,Asia Pacific,Singapore
-162.159.42.48,443,91ms,TCPing,,SIN,SG,Asia Pacific,Singapore
-162.159.61.162,443,92ms,TCPing,,SIN,SG,Asia Pacific,Singapore
-104.18.40.238,443,93ms,TCPing,,SIN,SG,Asia Pacific,Singapore
-162.159.10.241,443,93ms,TCPing,,SIN,SG,Asia Pacific,Singapore
-162.159.2.124,443,93ms,TCPing,,SIN,SG,Asia Pacific,Singapore
-162.159.22.103,443,94ms,TCPing,,SIN,SG,Asia Pacific,Singapore
-162.159.48.146,443,94ms,TCPing,,SIN,SG,Asia Pacific,Singapore
-172.64.157.210,443,94ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+﻿IP地址,端口号,网络延迟,扫描方式,数据中心,落地区域,地区,城市
+104.29.111.205,443,147ms,TCPing,FRA,DE,Europe,Frankfurt
+104.29.125.19,443,152ms,TCPing,FRA,DE,Europe,Frankfurt
+108.162.198.78,443,154ms,TCPing,SJC,US,North America,San Jose
+198.41.219.171,443,155ms,TCPing,SJC,US,North America,San Jose
+104.17.149.121,443,156ms,TCPing,SJC,US,North America,San Jose
+104.17.132.189,443,157ms,TCPing,SJC,US,North America,San Jose
+104.17.130.82,443,158ms,TCPing,SJC,US,North America,San Jose
+162.159.237.144,443,158ms,TCPing,SJC,US,North America,San Jose
+172.64.79.26,443,159ms,TCPing,SJC,US,North America,San Jose
+172.67.94.77,443,159ms,TCPing,LAX,US,North America,Los Angeles
+104.17.136.22,443,160ms,TCPing,SJC,US,North America,San Jose
+104.19.130.30,443,160ms,TCPing,LAX,US,North America,Los Angeles
+104.19.196.22,443,160ms,TCPing,LAX,US,North America,Los Angeles
+104.21.218.197,443,160ms,TCPing,LAX,US,North America,Los Angeles
+162.159.207.99,443,160ms,TCPing,LAX,US,North America,Los Angeles
+104.17.133.109,443,161ms,TCPing,SJC,US,North America,San Jose
+104.17.146.49,443,161ms,TCPing,SJC,US,North America,San Jose
+104.20.44.184,443,161ms,TCPing,LAX,US,North America,Los Angeles
+104.24.130.34,443,161ms,TCPing,LAX,US,North America,Los Angeles
+172.64.69.72,443,161ms,TCPing,LAX,US,North America,Los Angeles
+104.17.130.87,443,158ms,TCPing,SJC,US,North America,San Jose
+162.159.160.69,443,158ms,TCPing,FRA,DE,Europe,Frankfurt
+172.67.153.156,443,158ms,TCPing,LAX,US,North America,Los Angeles
+104.21.127.20,443,159ms,TCPing,LAX,US,North America,Los Angeles
+104.24.63.1,443,159ms,TCPing,LAX,US,North America,Los Angeles
+104.17.142.171,443,160ms,TCPing,SJC,US,North America,San Jose
+104.17.157.239,443,160ms,TCPing,SJC,US,North America,San Jose
+104.18.61.46,443,160ms,TCPing,LAX,US,North America,Los Angeles
+104.24.243.7,443,160ms,TCPing,LAX,US,North America,Los Angeles
+104.16.15.113,443,161ms,TCPing,LAX,US,North America,Los Angeles
+104.19.5.199,443,161ms,TCPing,LAX,US,North America,Los Angeles
+104.17.121.73,443,162ms,TCPing,LAX,US,North America,Los Angeles
+104.17.129.65,443,162ms,TCPing,SJC,US,North America,San Jose
+104.18.159.208,443,162ms,TCPing,LAX,US,North America,Los Angeles
+104.18.246.85,443,162ms,TCPing,LAX,US,North America,Los Angeles
+104.24.208.45,443,162ms,TCPing,LAX,US,North America,Los Angeles
+104.25.56.212,443,162ms,TCPing,LAX,US,North America,Los Angeles
+23.227.60.122,443,162ms,TCPing,LAX,US,North America,Los Angeles
+104.17.139.249,443,163ms,TCPing,SJC,US,North America,San Jose
+104.18.197.146,443,163ms,TCPing,LAX,US,North America,Los Angeles
