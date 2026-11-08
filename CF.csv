@@ -1,5 +1,23 @@
 ﻿IP地址,端口号,网络延迟,扫描方式,下载速度,数据中心,落地区域,地区,城市
-172.64.229.238,443,75ms,TCPing,72.75MB/s,NRT,JP,Asia Pacific,Tokyo
-8.35.211.11,443,75ms,TCPing,连接错误,SIN,SG,Asia Pacific,Singapore
-104.18.36.157,443,80ms,TCPing,连接错误,SIN,SG,Asia Pacific,Singapore
-8.39.125.5,443,84ms,TCPing,连接错误,SIN,SG,Asia Pacific,Singapore
+172.64.52.120,443,64ms,TCPing,70.26MB/s,NRT,JP,Asia Pacific,Tokyo
+108.162.198.216,443,66ms,TCPing,48.81MB/s,NRT,JP,Asia Pacific,Tokyo
+162.159.39.138,443,79ms,TCPing,41.86MB/s,SIN,SG,Asia Pacific,Singapore
+172.64.152.78,443,81ms,TCPing,40.21MB/s,SIN,SG,Asia Pacific,Singapore
+162.159.32.79,443,79ms,TCPing,39.60MB/s,SIN,SG,Asia Pacific,Singapore
+104.18.33.43,443,81ms,TCPing,36.77MB/s,SIN,SG,Asia Pacific,Singapore
+104.18.43.92,443,81ms,TCPing,34.57MB/s,SIN,SG,Asia Pacific,Singapore
+198.41.223.144,443,77ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+108.162.192.79,443,79ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+162.159.0.10,443,79ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+162.159.12.252,443,79ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+162.159.2.141,443,79ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+162.159.3.75,443,79ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+162.159.46.214,443,79ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+104.18.36.149,443,80ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+104.18.47.102,443,80ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+162.159.25.178,443,80ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+162.159.41.137,443,80ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+162.159.61.241,443,80ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+162.159.8.101,443,80ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+172.64.144.216,443,80ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+172.64.155.190,443,80ms,TCPing,,SIN,SG,Asia Pacific,Singapore
