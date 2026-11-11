@@ -1,22 +1,41 @@
-﻿IP地址,端口号,网络延迟,扫描方式,下载速度,数据中心,落地区域,地区,城市
-172.64.53.77,443,59ms,TCPing,72.85MB/s,NRT,JP,Asia Pacific,Tokyo
-172.64.157.170,443,116ms,TCPing,39.78MB/s,SIN,SG,Asia Pacific,Singapore
-162.159.32.160,443,113ms,TCPing,32.48MB/s,SIN,SG,Asia Pacific,Singapore
-172.64.152.229,443,144ms,TCPing,31.08MB/s,SIN,SG,Asia Pacific,Singapore
-162.159.23.139,443,102ms,TCPing,30.90MB/s,SIN,SG,Asia Pacific,Singapore
-172.64.153.146,443,118ms,TCPing,30.19MB/s,SIN,SG,Asia Pacific,Singapore
-162.159.24.161,443,99ms,TCPing,,SIN,SG,Asia Pacific,Singapore
-162.159.60.174,443,105ms,TCPing,,SIN,SG,Asia Pacific,Singapore
-162.159.16.212,443,106ms,TCPing,,SIN,SG,Asia Pacific,Singapore
-172.64.149.140,443,110ms,TCPing,,SIN,SG,Asia Pacific,Singapore
-104.18.38.206,443,111ms,TCPing,,SIN,SG,Asia Pacific,Singapore
-104.18.35.21,443,115ms,TCPing,,SIN,SG,Asia Pacific,Singapore
-104.18.44.64,443,115ms,TCPing,,SIN,SG,Asia Pacific,Singapore
-162.159.34.151,443,118ms,TCPing,,SIN,SG,Asia Pacific,Singapore
-162.159.40.231,443,119ms,TCPing,,SIN,SG,Asia Pacific,Singapore
-162.159.18.40,443,120ms,TCPing,,SIN,SG,Asia Pacific,Singapore
-162.159.45.80,443,120ms,TCPing,,SIN,SG,Asia Pacific,Singapore
-162.159.8.88,443,120ms,TCPing,,SIN,SG,Asia Pacific,Singapore
-172.64.48.8,443,120ms,TCPing,,SIN,SG,Asia Pacific,Singapore
-172.64.155.136,443,121ms,TCPing,,SIN,SG,Asia Pacific,Singapore
-198.41.222.0,443,121ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+﻿IP地址,端口号,网络延迟,扫描方式,数据中心,落地区域,地区,城市
+162.159.1.15,443,75ms,TCPing,SIN,SG,Asia Pacific,Singapore
+172.64.157.166,443,75ms,TCPing,SIN,SG,Asia Pacific,Singapore
+162.159.15.194,443,76ms,TCPing,SIN,SG,Asia Pacific,Singapore
+162.159.41.52,443,77ms,TCPing,SIN,SG,Asia Pacific,Singapore
+162.159.61.191,443,80ms,TCPing,SIN,SG,Asia Pacific,Singapore
+162.159.16.172,443,85ms,TCPing,SIN,SG,Asia Pacific,Singapore
+172.64.150.233,443,91ms,TCPing,SIN,SG,Asia Pacific,Singapore
+104.18.35.223,443,93ms,TCPing,SIN,SG,Asia Pacific,Singapore
+162.159.3.45,443,94ms,TCPing,SIN,SG,Asia Pacific,Singapore
+162.159.20.99,443,95ms,TCPing,SIN,SG,Asia Pacific,Singapore
+173.245.58.15,443,98ms,TCPing,SIN,SG,Asia Pacific,Singapore
+162.159.58.187,443,99ms,TCPing,SIN,SG,Asia Pacific,Singapore
+162.159.46.129,443,103ms,TCPing,SIN,SG,Asia Pacific,Singapore
+108.162.196.230,443,119ms,TCPing,SIN,SG,Asia Pacific,Singapore
+198.41.223.213,443,135ms,TCPing,SIN,SG,Asia Pacific,Singapore
+172.64.42.91,443,136ms,TCPing,SIN,SG,Asia Pacific,Singapore
+173.245.59.188,443,136ms,TCPing,SIN,SG,Asia Pacific,Singapore
+104.21.225.178,443,149ms,TCPing,LAX,US,North America,Los Angeles
+104.18.83.33,443,150ms,TCPing,LAX,US,North America,Los Angeles
+104.19.28.105,443,150ms,TCPing,LAX,US,North America,Los Angeles
+162.159.35.146,443,122ms,TCPing,37.24MB/s,SIN,SG,Asia Pacific,Singapore
+104.18.39.7,443,186ms,TCPing,32.71MB/s,SIN,SG,Asia Pacific,Singapore
+162.159.25.215,443,109ms,TCPing,14.39MB/s,SIN,SG,Asia Pacific,Singapore
+162.159.3.169,443,135ms,TCPing,8.41MB/s,SIN,SG,Asia Pacific,Singapore
+104.18.40.61,443,189ms,TCPing,6.54MB/s,SIN,SG,Asia Pacific,Singapore
+172.64.50.76,443,187ms,TCPing,4.01MB/s,SIN,SG,Asia Pacific,Singapore
+162.159.58.15,443,117ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+162.159.20.100,443,129ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+172.64.33.180,443,132ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+172.64.49.62,443,134ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+198.41.211.185,443,139ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+172.64.40.137,443,142ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+162.159.8.109,443,146ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+172.64.159.43,443,147ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+162.159.11.178,443,148ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+162.159.1.60,443,150ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+162.159.48.242,443,152ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+162.159.19.216,443,155ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+108.162.192.157,443,157ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+173.245.59.82,443,157ms,TCPing,,SIN,SG,Asia Pacific,Singapore
