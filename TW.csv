@@ -1,6 +1,6 @@
 ﻿IP地址,端口号,TLS,丢包率,扫描方式,网络延迟,下载速度,出站IP,IP类型,原始输入,数据中心,源IP位置,地区,城市,ASN号码,ASN组织,访问协议,TLS版本,SNI,HTTP版本,WARP,Gateway,RBI,密钥交换,时间戳
-140.115.53.51,443,true,0%,TCPing,172ms,12.75MB/s,2a0e:b107:1954:5300:3797:8fb6:a8c3:f53c,IPv6,140.115.53.51,TPE,TW,Asia Pacific,Taipei,AS207705,Jyun-Kai Hu,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1794429035.000
-140.235.39.162,443,true,0%,TCPing,230ms,0.03MB/s,2a12:bec0:162:442::,IPv6,140.235.39.162,TPE,TW,Asia Pacific,Taipei,AS212336,ByteVirt LLC,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1794429036.000
-140.235.39.19,443,true,0%,TCPing,305ms,0.11MB/s,2a12:bec0:162:153::,IPv6,140.235.39.19,TPE,TW,Asia Pacific,Taipei,AS212336,ByteVirt LLC,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1794429036.000
-83.147.15.84,443,true,0%,TCPing,561ms,0.02MB/s,2407:cdc0:f004:97f0:78a2:5c66:50e9:ec5d,IPv6,83.147.15.84,TPE,TW,Asia Pacific,Taipei,AS38136,Akari Networks,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1794429037.000
-141.11.86.150,8443,true,0%,TCPing,610ms,0.06MB/s,2407:cdc0:f004:1936:3d16:5bf2:2c97:d258,IPv6,141.11.86.150,TPE,TW,Asia Pacific,Taipei,AS38136,Akari Networks,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1794429037.000
+140.115.53.51,443,true,0%,TCPing,170ms,12.87MB/s,2a0e:b107:1954:5300:3797:8fb6:a8c3:f53c,IPv6,140.115.53.51,TPE,TW,Asia Pacific,Taipei,AS207705,Jyun-Kai Hu,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1794435918.000
+140.235.39.162,443,true,0%,TCPing,294ms,4.39MB/s,2a12:bec0:162:442::,IPv6,140.235.39.162,TPE,TW,Asia Pacific,Taipei,AS212336,ByteVirt LLC,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1794435918.000
+83.147.15.84,443,true,0%,TCPing,297ms,2.35MB/s,2407:cdc0:f004:97f0:78a2:5c66:50e9:ec5d,IPv6,83.147.15.84,TPE,TW,Asia Pacific,Taipei,AS38136,Akari Networks,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1794435918.000
+141.11.86.150,8443,true,0%,TCPing,313ms,0.02MB/s,2407:cdc0:f004:1936:3d16:5bf2:2c97:d258,IPv6,141.11.86.150,TPE,TW,Asia Pacific,Taipei,AS38136,Akari Networks,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1794435918.000
+140.235.39.19,443,true,0%,TCPing,912ms,0.03MB/s,2a12:bec0:162:153::,IPv6,140.235.39.19,TPE,TW,Asia Pacific,Taipei,AS212336,ByteVirt LLC,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1794435921.000
