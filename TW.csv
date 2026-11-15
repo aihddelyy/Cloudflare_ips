@@ -1,5 +1,6 @@
 ﻿IP地址,端口号,TLS,丢包率,扫描方式,网络延迟,下载速度,出站IP,IP类型,原始输入,数据中心,源IP位置,地区,城市,ASN号码,ASN组织,访问协议,TLS版本,SNI,HTTP版本,WARP,Gateway,RBI,密钥交换,时间戳
-140.115.53.51,443,true,0%,TCPing,217ms,8.42MB/s,2a0e:b107:1954:5300:e837:ccdc:3dc1:d57d,IPv6,140.115.53.51,TPE,TW,Asia Pacific,Taipei,AS207705,Jyun-Kai Hu,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1794719000.000
-140.235.39.19,443,true,0%,TCPing,301ms,0.02MB/s,2a12:bec0:162:153::,IPv6,140.235.39.19,TPE,TW,Asia Pacific,Taipei,AS212336,ByteVirt LLC,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1794719001.000
-83.147.15.84,443,true,0%,TCPing,309ms,0.14MB/s,2407:cdc0:f004:97f0:78a2:5c66:50e9:ec5d,IPv6,83.147.15.84,TPE,TW,Asia Pacific,Taipei,AS38136,Akari Networks,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1794719003.000
-151.242.189.33,443,true,0%,TCPing,638ms,1.09MB/s,2a12:bec0:162:5fe::,IPv6,151.242.189.33,TPE,TW,Asia Pacific,Taipei,AS212336,ByteVirt LLC,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1794719002.000
+140.115.53.51,443,true,0%,TCPing,194ms,9.57MB/s,2a0e:b107:1954:5300:da8e:f4c6:caa1:10a2,IPv6,140.115.53.51,TPE,TW,Asia Pacific,Taipei,AS207705,Jyun-Kai Hu,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1794767581.000
+151.242.189.33,443,true,0%,TCPing,286ms,6.48MB/s,2a12:bec0:162:5fe::,IPv6,151.242.189.33,TPE,TW,Asia Pacific,Taipei,AS212336,ByteVirt LLC,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1794767582.000
+166.0.198.193,443,true,0%,TCPing,315ms,5.07MB/s,166.0.198.193,IPv4,166.0.198.193,TPE,TW,Asia Pacific,Taipei,AS61112,AKILE LTD,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1794767582.000
+85.237.207.238,443,true,0%,TCPing,312ms,3.80MB/s,85.237.207.238,IPv4,85.237.207.238,TPE,TW,Asia Pacific,Taipei,AS401443,WAP.AC LLC,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1794767582.000
+83.147.15.84,443,true,0%,TCPing,315ms,2.42MB/s,2407:cdc0:f004:97f0:78a2:5c66:50e9:ec5d,IPv6,83.147.15.84,TPE,TW,Asia Pacific,Taipei,AS38136,Akari Networks,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1794767582.000
