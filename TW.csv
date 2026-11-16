@@ -1,7 +1,5 @@
 ﻿IP地址,端口号,TLS,丢包率,扫描方式,网络延迟,下载速度,出站IP,IP类型,原始输入,数据中心,源IP位置,地区,城市,ASN号码,ASN组织,访问协议,TLS版本,SNI,HTTP版本,WARP,Gateway,RBI,密钥交换,时间戳
-140.115.53.51,443,true,0%,TCPing,528ms,6.53MB/s,2a0e:b107:1954:5300:ca9:e823:2453:7bab,IPv6,140.115.53.51,TPE,TW,Asia Pacific,Taipei,AS207705,Jyun-Kai Hu,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1794837496.000
-83.147.15.84,443,true,0%,TCPing,313ms,0.09MB/s,2407:cdc0:f004:97f0:78a2:5c66:50e9:ec5d,IPv6,83.147.15.84,TPE,TW,Asia Pacific,Taipei,AS38136,Akari Networks,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1794837498.000
-85.237.207.238,443,true,0%,TCPing,316ms,0.42MB/s,85.237.207.238,IPv4,85.237.207.238,TPE,TW,Asia Pacific,Taipei,AS401443,WAP.AC LLC,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1794837496.000
-83.147.14.62,8443,true,0%,TCPing,641ms,0.00MB/s,2407:cdc0:f004:1c12:7218:7118:d3cb:9b32,IPv6,83.147.14.62,TPE,TW,Asia Pacific,Taipei,AS38136,Akari Networks,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1794837497.000
-140.235.39.19,443,true,0%,TCPing,1333ms,测速失败,2a12:bec0:162:153::,IPv6,140.235.39.19,TPE,TW,Asia Pacific,Taipei,AS212336,ByteVirt LLC,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1794837499.000
-141.11.86.150,8443,true,67%,TCPing,290ms,0.62MB/s,2407:cdc0:f004:1936:3d16:5bf2:2c97:d258,IPv6,141.11.86.150,TPE,TW,Asia Pacific,Taipei,AS38136,Akari Networks,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1794837501.000
+140.115.53.51,443,true,0%,TCPing,175ms,12.34MB/s,2a0e:b107:1954:5300:ca9:e823:2453:7bab,IPv6,140.115.53.51,HKG,TW,Asia Pacific,Hong Kong,AS207705,Jyun-Kai Hu,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1794853812.000
+151.242.189.33,443,true,0%,TCPing,290ms,7.32MB/s,2a12:bec0:162:5fe::,IPv6,151.242.189.33,HKG,TW,Asia Pacific,Hong Kong,AS212336,ByteVirt LLC,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1794853812.000
+140.235.39.19,443,true,0%,TCPing,300ms,0.02MB/s,2a12:bec0:162:153::,IPv6,140.235.39.19,HKG,TW,Asia Pacific,Hong Kong,AS212336,ByteVirt LLC,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1794853813.000
+83.147.15.84,443,true,0%,TCPing,607ms,测速失败,2407:cdc0:f004:97f0:78a2:5c66:50e9:ec5d,IPv6,83.147.15.84,HKG,TW,Asia Pacific,Hong Kong,AS38136,Akari Networks,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1794853816.000
