@@ -1,6 +1,5 @@
 ﻿IP地址,端口号,TLS,丢包率,扫描方式,网络延迟,下载速度,出站IP,IP类型,原始输入,数据中心,源IP位置,地区,城市,ASN号码,ASN组织,访问协议,TLS版本,SNI,HTTP版本,WARP,Gateway,RBI,密钥交换,时间戳
-140.115.53.51,443,true,0%,TCPing,175ms,11.75MB/s,2a0e:b107:1954:5300:da8e:f4c6:caa1:10a2,IPv6,140.115.53.51,TPE,TW,Asia Pacific,Taipei,AS207705,Jyun-Kai Hu,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1794811940.000
-151.242.189.33,443,true,0%,TCPing,301ms,0.91MB/s,2a12:bec0:162:5fe::,IPv6,151.242.189.33,TPE,TW,Asia Pacific,Taipei,AS212336,ByteVirt LLC,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1794811940.000
-140.235.39.19,443,true,0%,TCPing,311ms,0.02MB/s,2a12:bec0:162:153::,IPv6,140.235.39.19,TPE,TW,Asia Pacific,Taipei,AS212336,ByteVirt LLC,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1794811940.000
-154.40.61.186,8443,true,0%,TCPing,677ms,测速失败,2400:70e0:baf:1:1234:5678:4a36:d96b,IPv6,154.40.61.186,HKG,HK,Asia Pacific,Hong Kong,AS151338,POLONETWORK LIMITED,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1794811941.000
-83.147.14.62,8443,true,33%,TCPing,346ms,0.53MB/s,2407:cdc0:f004:1c12:7218:7118:d3cb:9b32,IPv6,83.147.14.62,TPE,TW,Asia Pacific,Taipei,AS38136,Akari Networks,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1794811942.000
+140.115.53.51,443,true,0%,TCPing,175ms,11.51MB/s,2a0e:b107:1954:5300:ca9:e823:2453:7bab,IPv6,140.115.53.51,TPE,TW,Asia Pacific,Taipei,AS207705,Jyun-Kai Hu,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1794826170.000
+85.237.207.238,443,true,0%,TCPing,311ms,1.02MB/s,85.237.207.238,IPv4,85.237.207.238,TPE,TW,Asia Pacific,Taipei,AS401443,WAP.AC LLC,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1794826171.000
+83.147.14.62,8443,true,0%,TCPing,322ms,1.21MB/s,2407:cdc0:f004:1c12:7218:7118:d3cb:9b32,IPv6,83.147.14.62,TPE,TW,Asia Pacific,Taipei,AS38136,Akari Networks,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1794826171.000
+154.40.61.186,8443,true,0%,TCPing,976ms,0.00MB/s,2400:70e0:baf:1:1234:5678:4a36:d96b,IPv6,154.40.61.186,HKG,HK,Asia Pacific,Hong Kong,AS151338,POLONETWORK LIMITED,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1794826173.000
