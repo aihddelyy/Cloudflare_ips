@@ -1,4 +1,4 @@
 ﻿IP地址,端口号,TLS,丢包率,扫描方式,网络延迟,下载速度,出站IP,IP类型,原始输入,数据中心,源IP位置,地区,城市,ASN号码,ASN组织,访问协议,TLS版本,SNI,HTTP版本,WARP,Gateway,RBI,密钥交换,时间戳
-140.115.53.51,443,true,0%,TCPing,178ms,7.77MB/s,2a0e:b107:1954:5300:2dc:abbf:d6aa:b10e,IPv6,140.115.53.51,TPE,TW,Asia Pacific,Taipei,AS207705,Jyun-Kai Hu,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1794978340.000
-188.253.6.249,443,true,0%,TCPing,331ms,0.42MB/s,2407:cdc0:f006:ad80:c8e0:2304:8f61:b2a3,IPv6,188.253.6.249,TPE,TW,Asia Pacific,Taipei,AS38136,Akari Networks,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1794978341.000
-140.235.39.162,443,true,0%,TCPing,347ms,0.00MB/s,2a12:bec0:162:442::,IPv6,140.235.39.162,TPE,TW,Asia Pacific,Taipei,AS212336,ByteVirt LLC,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1794978342.000
+140.115.53.51,443,true,0%,TCPing,182ms,12.75MB/s,2a0e:b107:1954:5300:3be4:3168:2b38:739b,IPv6,140.115.53.51,TPE,TW,Asia Pacific,Taipei,AS207705,Jyun-Kai Hu,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1794995241.000
+140.235.39.19,443,true,0%,TCPing,303ms,0.02MB/s,2a12:bec0:162:153::,IPv6,140.235.39.19,TPE,TW,Asia Pacific,Taipei,AS212336,ByteVirt LLC,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1794995241.000
+83.147.15.84,443,true,0%,TCPing,641ms,0.16MB/s,2407:cdc0:f004:97f0:78a2:5c66:50e9:ec5d,IPv6,83.147.15.84,TPE,TW,Asia Pacific,Taipei,AS38136,Akari Networks,https,TLSv1.3,plaintext,http/1.1,off,off,off,X25519MLKEM768,1794995243.000
