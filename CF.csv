@@ -1,41 +1,24 @@
-﻿IP地址,端口号,网络延迟,扫描方式,数据中心,落地区域,地区,城市
-104.29.111.27,443,154ms,TCPing,FRA,DE,Europe,Frankfurt
-108.162.198.232,443,157ms,TCPing,SJC,US,North America,San Jose
-104.17.145.191,443,162ms,TCPing,SJC,US,North America,San Jose
-172.64.79.38,443,162ms,TCPing,SJC,US,North America,San Jose
-104.17.148.113,443,164ms,TCPing,SJC,US,North America,San Jose
-104.17.146.245,443,165ms,TCPing,SJC,US,North America,San Jose
-104.18.52.49,443,165ms,TCPing,LAX,US,North America,Los Angeles
-104.17.72.139,443,166ms,TCPing,LAX,US,North America,Los Angeles
-104.19.42.152,443,167ms,TCPing,LAX,US,North America,Los Angeles
-104.29.125.242,443,167ms,TCPing,FRA,DE,Europe,Frankfurt
-104.17.120.39,443,168ms,TCPing,LAX,US,North America,Los Angeles
-104.17.149.23,443,168ms,TCPing,SJC,US,North America,San Jose
-104.18.209.112,443,168ms,TCPing,LAX,US,North America,Los Angeles
-104.17.151.107,443,169ms,TCPing,SJC,US,North America,San Jose
-104.17.155.208,443,169ms,TCPing,SJC,US,North America,San Jose
-104.21.214.119,443,169ms,TCPing,LAX,US,North America,Los Angeles
-104.25.111.230,443,169ms,TCPing,LAX,US,North America,Los Angeles
-104.18.48.21,443,170ms,TCPing,LAX,US,North America,Los Angeles
-104.24.74.235,443,170ms,TCPing,LAX,US,North America,Los Angeles
-104.27.19.83,443,170ms,TCPing,LAX,US,North America,Los Angeles
-104.29.111.202,443,157ms,TCPing,FRA,DE,Europe,Frankfurt
-104.17.158.61,443,161ms,TCPing,SJC,US,North America,San Jose
-104.17.132.97,443,162ms,TCPing,SJC,US,North America,San Jose
-104.17.128.170,443,163ms,TCPing,SJC,US,North America,San Jose
-104.17.149.249,443,163ms,TCPing,SJC,US,North America,San Jose
-104.17.176.216,443,163ms,TCPing,LAX,US,North America,Los Angeles
-104.17.134.117,443,164ms,TCPing,SJC,US,North America,San Jose
-104.19.57.69,443,164ms,TCPing,LAX,US,North America,Los Angeles
-104.16.233.155,443,166ms,TCPing,LAX,US,North America,Los Angeles
-104.19.133.3,443,166ms,TCPing,LAX,US,North America,Los Angeles
-104.24.25.137,443,166ms,TCPing,LAX,US,North America,Los Angeles
-104.17.143.138,443,167ms,TCPing,SJC,US,North America,San Jose
-104.17.146.223,443,167ms,TCPing,SJC,US,North America,San Jose
-104.17.151.14,443,167ms,TCPing,SJC,US,North America,San Jose
-104.24.20.17,443,168ms,TCPing,LAX,US,North America,Los Angeles
-104.27.203.71,443,168ms,TCPing,LAX,US,North America,Los Angeles
-162.159.160.59,443,168ms,TCPing,FRA,DE,Europe,Frankfurt
-104.17.121.97,443,169ms,TCPing,LAX,US,North America,Los Angeles
-104.17.249.87,443,169ms,TCPing,LAX,US,North America,Los Angeles
-104.18.169.211,443,169ms,TCPing,LAX,US,North America,Los Angeles
+﻿IP地址,端口号,网络延迟,扫描方式,下载速度,数据中心,落地区域,地区,城市
+108.162.198.48,443,62ms,TCPing,60.98MB/s,NRT,JP,Asia Pacific,Tokyo
+172.64.52.91,443,59ms,TCPing,57.24MB/s,NRT,JP,Asia Pacific,Tokyo
+172.64.229.149,443,91ms,TCPing,34.06MB/s,NRT,JP,Asia Pacific,Tokyo
+172.64.50.206,443,81ms,TCPing,44.98MB/s,SIN,SG,Asia Pacific,Singapore
+162.159.27.88,443,82ms,TCPing,44.61MB/s,SIN,SG,Asia Pacific,Singapore
+172.64.149.34,443,83ms,TCPing,43.52MB/s,SIN,SG,Asia Pacific,Singapore
+198.41.222.18,443,82ms,TCPing,42.41MB/s,SIN,SG,Asia Pacific,Singapore
+172.64.157.216,443,83ms,TCPing,40.11MB/s,SIN,SG,Asia Pacific,Singapore
+162.159.8.186,443,83ms,TCPing,39.84MB/s,SIN,SG,Asia Pacific,Singapore
+172.64.152.208,443,83ms,TCPing,39.82MB/s,SIN,SG,Asia Pacific,Singapore
+173.245.58.253,443,83ms,TCPing,38.82MB/s,SIN,SG,Asia Pacific,Singapore
+162.159.11.172,443,78ms,TCPing,33.90MB/s,SIN,SG,Asia Pacific,Singapore
+104.18.35.186,443,79ms,TCPing,29.56MB/s,SIN,SG,Asia Pacific,Singapore
+172.64.153.81,443,79ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+104.18.32.53,443,82ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+104.18.40.19,443,82ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+104.18.42.180,443,82ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+162.159.13.201,443,82ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+162.159.15.126,443,82ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+162.159.2.95,443,82ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+162.159.20.237,443,82ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+162.159.21.167,443,82ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+162.159.25.132,443,82ms,TCPing,,SIN,SG,Asia Pacific,Singapore
