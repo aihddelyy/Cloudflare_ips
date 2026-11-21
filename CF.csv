@@ -1,23 +1,41 @@
-﻿IP地址,端口号,网络延迟,扫描方式,下载速度,数据中心,落地区域,地区,城市
-172.64.53.76,443,74ms,TCPing,45.62MB/s,NRT,JP,Asia Pacific,Tokyo
-108.162.198.198,443,63ms,TCPing,40.51MB/s,NRT,JP,Asia Pacific,Tokyo
-172.64.49.221,443,123ms,TCPing,40.98MB/s,SIN,SG,Asia Pacific,Singapore
-162.159.27.36,443,92ms,TCPing,39.94MB/s,SIN,SG,Asia Pacific,Singapore
-104.18.47.233,443,82ms,TCPing,37.99MB/s,SIN,SG,Asia Pacific,Singapore
-162.159.21.90,443,84ms,TCPing,35.45MB/s,SIN,SG,Asia Pacific,Singapore
-162.159.6.63,443,86ms,TCPing,34.82MB/s,SIN,SG,Asia Pacific,Singapore
-162.159.18.232,443,85ms,TCPing,32.65MB/s,SIN,SG,Asia Pacific,Singapore
-162.159.23.8,443,89ms,TCPing,21.20MB/s,SIN,SG,Asia Pacific,Singapore
-162.159.35.49,443,92ms,TCPing,19.18MB/s,SIN,SG,Asia Pacific,Singapore
-162.159.41.62,443,86ms,TCPing,8.17MB/s,SIN,SG,Asia Pacific,Singapore
-162.159.11.160,443,88ms,TCPing,6.47MB/s,SIN,SG,Asia Pacific,Singapore
-108.162.196.149,443,81ms,TCPing,,SIN,SG,Asia Pacific,Singapore
-162.159.32.3,443,81ms,TCPing,,SIN,SG,Asia Pacific,Singapore
-162.159.43.95,443,81ms,TCPing,,SIN,SG,Asia Pacific,Singapore
-162.159.12.146,443,82ms,TCPing,,SIN,SG,Asia Pacific,Singapore
-172.64.158.114,443,82ms,TCPing,,SIN,SG,Asia Pacific,Singapore
-108.162.195.242,443,84ms,TCPing,,SIN,SG,Asia Pacific,Singapore
-162.159.5.85,443,86ms,TCPing,,SIN,SG,Asia Pacific,Singapore
-162.159.33.89,443,87ms,TCPing,,SIN,SG,Asia Pacific,Singapore
-162.159.36.15,443,87ms,TCPing,,SIN,SG,Asia Pacific,Singapore
-162.159.4.51,443,87ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+﻿IP地址,端口号,网络延迟,扫描方式,数据中心,落地区域,地区,城市
+104.29.111.42,443,148ms,TCPing,FRA,DE,Europe,Frankfurt
+104.29.125.197,443,150ms,TCPing,FRA,DE,Europe,Frankfurt
+162.159.160.105,443,153ms,TCPing,FRA,DE,Europe,Frankfurt
+104.24.31.143,443,159ms,TCPing,LAX,US,North America,Los Angeles
+104.18.146.231,443,160ms,TCPing,LAX,US,North America,Los Angeles
+104.24.132.31,443,163ms,TCPing,LAX,US,North America,Los Angeles
+172.67.99.66,443,163ms,TCPing,LAX,US,North America,Los Angeles
+104.17.111.140,443,164ms,TCPing,LAX,US,North America,Los Angeles
+104.25.221.175,443,164ms,TCPing,LAX,US,North America,Los Angeles
+104.16.244.115,443,165ms,TCPing,LAX,US,North America,Los Angeles
+104.17.112.58,443,165ms,TCPing,LAX,US,North America,Los Angeles
+104.24.129.160,443,165ms,TCPing,LAX,US,North America,Los Angeles
+172.67.106.89,443,165ms,TCPing,LAX,US,North America,Los Angeles
+104.17.130.77,443,166ms,TCPing,SJC,US,North America,San Jose
+104.18.36.227,443,166ms,TCPing,LAX,US,North America,Los Angeles
+104.18.46.81,443,166ms,TCPing,LAX,US,North America,Los Angeles
+104.20.0.151,443,166ms,TCPing,LAX,US,North America,Los Angeles
+104.19.239.194,443,167ms,TCPing,LAX,US,North America,Los Angeles
+104.25.134.111,443,167ms,TCPing,LAX,US,North America,Los Angeles
+104.17.207.183,443,168ms,TCPing,LAX,US,North America,Los Angeles
+162.159.160.197,443,155ms,TCPing,FRA,DE,Europe,Frankfurt
+104.17.150.153,443,157ms,TCPing,SJC,US,North America,San Jose
+104.17.128.169,443,159ms,TCPing,SJC,US,North America,San Jose
+104.17.140.91,443,159ms,TCPing,SJC,US,North America,San Jose
+104.16.78.150,443,161ms,TCPing,LAX,US,North America,Los Angeles
+104.17.102.242,443,161ms,TCPing,LAX,US,North America,Los Angeles
+104.21.14.76,443,162ms,TCPing,LAX,US,North America,Los Angeles
+104.29.111.102,443,162ms,TCPing,FRA,DE,Europe,Frankfurt
+104.17.142.156,443,163ms,TCPing,SJC,US,North America,San Jose
+104.17.151.14,443,163ms,TCPing,SJC,US,North America,San Jose
+104.17.159.56,443,163ms,TCPing,SJC,US,North America,San Jose
+104.19.202.85,443,163ms,TCPing,LAX,US,North America,Los Angeles
+104.21.11.239,443,163ms,TCPing,LAX,US,North America,Los Angeles
+162.159.3.69,443,163ms,TCPing,LAX,US,North America,Los Angeles
+172.67.211.236,443,163ms,TCPing,LAX,US,North America,Los Angeles
+104.17.31.209,443,165ms,TCPing,LAX,US,North America,Los Angeles
+104.18.174.132,443,165ms,TCPing,LAX,US,North America,Los Angeles
+104.24.24.150,443,165ms,TCPing,LAX,US,North America,Los Angeles
+23.227.38.152,443,165ms,TCPing,LAX,US,North America,Los Angeles
+104.17.148.102,443,166ms,TCPing,SJC,US,North America,San Jose
