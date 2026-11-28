@@ -1,42 +1,57 @@
-﻿IP地址,端口号,网络延迟,扫描方式,下载速度,数据中心,落地区域,地区,城市
-172.64.53.216,443,71ms,TCPing,41.22MB/s,NRT,JP,Asia Pacific,Tokyo
-162.159.16.171,443,77ms,TCPing,45.97MB/s,SIN,SG,Asia Pacific,Singapore
-172.64.152.143,443,77ms,TCPing,45.53MB/s,SIN,SG,Asia Pacific,Singapore
-162.159.15.63,443,76ms,TCPing,43.59MB/s,SIN,SG,Asia Pacific,Singapore
-162.159.26.42,443,76ms,TCPing,43.43MB/s,SIN,SG,Asia Pacific,Singapore
-172.64.38.89,443,75ms,TCPing,43.12MB/s,SIN,SG,Asia Pacific,Singapore
-162.159.11.105,443,77ms,TCPing,42.74MB/s,SIN,SG,Asia Pacific,Singapore
-162.159.61.14,443,76ms,TCPing,41.42MB/s,SIN,SG,Asia Pacific,Singapore
-172.64.149.245,443,76ms,TCPing,35.93MB/s,SIN,SG,Asia Pacific,Singapore
-162.159.2.128,443,76ms,TCPing,34.04MB/s,SIN,SG,Asia Pacific,Singapore
-162.159.24.106,443,77ms,TCPing,33.88MB/s,SIN,SG,Asia Pacific,Singapore
-104.18.36.139,443,76ms,TCPing,,SIN,SG,Asia Pacific,Singapore
-104.18.45.70,443,76ms,TCPing,,SIN,SG,Asia Pacific,Singapore
-104.18.47.195,443,76ms,TCPing,,SIN,SG,Asia Pacific,Singapore
-162.159.22.10,443,76ms,TCPing,,SIN,SG,Asia Pacific,Singapore
-162.159.25.107,443,76ms,TCPing,,SIN,SG,Asia Pacific,Singapore
-162.159.42.69,443,76ms,TCPing,,SIN,SG,Asia Pacific,Singapore
-162.159.44.103,443,76ms,TCPing,,SIN,SG,Asia Pacific,Singapore
-162.159.48.186,443,76ms,TCPing,,SIN,SG,Asia Pacific,Singapore
-162.159.9.9,443,76ms,TCPing,,SIN,SG,Asia Pacific,Singapore
-172.64.146.79,443,76ms,TCPing,,SIN,SG,Asia Pacific,Singapore
-108.162.198.228,443,207ms,TCPing,7.73MB/s,SJC,US,North America,San Jose
-104.17.140.117,443,202ms,TCPing,6.87MB/s,SJC,US,North America,San Jose
-104.17.138.125,443,211ms,TCPing,6.26MB/s,SJC,US,North America,San Jose
-104.17.146.34,443,201ms,TCPing,6.24MB/s,SJC,US,North America,San Jose
-104.17.143.26,443,215ms,TCPing,5.70MB/s,SJC,US,North America,San Jose
-104.17.136.176,443,211ms,TCPing,5.58MB/s,SJC,US,North America,San Jose
-104.17.141.115,443,206ms,TCPing,5.31MB/s,SJC,US,North America,San Jose
-104.17.157.169,443,211ms,TCPing,5.10MB/s,SJC,US,North America,San Jose
-104.17.144.125,443,212ms,TCPing,4.71MB/s,SJC,US,North America,San Jose
-104.17.155.21,443,195ms,TCPing,4.54MB/s,SJC,US,North America,San Jose
-104.17.134.12,443,210ms,TCPing,4.52MB/s,SJC,US,North America,San Jose
-104.17.132.64,443,213ms,TCPing,4.37MB/s,SJC,US,North America,San Jose
-104.17.150.3,443,212ms,TCPing,4.22MB/s,SJC,US,North America,San Jose
-104.17.149.54,443,208ms,TCPing,4.19MB/s,SJC,US,North America,San Jose
-104.17.131.119,443,209ms,TCPing,4.07MB/s,SJC,US,North America,San Jose
-162.159.237.180,443,179ms,TCPing,3.93MB/s,SJC,US,North America,San Jose
-104.17.139.237,443,205ms,TCPing,3.43MB/s,SJC,US,North America,San Jose
-198.41.219.58,443,172ms,TCPing,0.66MB/s,SJC,US,North America,San Jose
-104.17.158.115,443,209ms,TCPing,0.41MB/s,SJC,US,North America,San Jose
-172.64.79.17,443,179ms,TCPing,0.40MB/s,SJC,US,North America,San Jose
+﻿IP地址,端口号,网络延迟,扫描方式,数据中心,落地区域,地区,城市
+162.159.5.110,443,72ms,TCPing,SIN,SG,Asia Pacific,Singapore
+104.18.36.177,443,73ms,TCPing,SIN,SG,Asia Pacific,Singapore
+104.18.44.222,443,73ms,TCPing,SIN,SG,Asia Pacific,Singapore
+108.162.195.45,443,73ms,TCPing,SIN,SG,Asia Pacific,Singapore
+108.162.196.152,443,73ms,TCPing,SIN,SG,Asia Pacific,Singapore
+162.159.58.97,443,73ms,TCPing,SIN,SG,Asia Pacific,Singapore
+198.41.223.231,443,73ms,TCPing,SIN,SG,Asia Pacific,Singapore
+104.18.32.232,443,74ms,TCPing,SIN,SG,Asia Pacific,Singapore
+162.159.27.242,443,74ms,TCPing,SIN,SG,Asia Pacific,Singapore
+162.159.44.108,443,74ms,TCPing,SIN,SG,Asia Pacific,Singapore
+162.159.49.23,443,74ms,TCPing,SIN,SG,Asia Pacific,Singapore
+162.159.8.239,443,74ms,TCPing,SIN,SG,Asia Pacific,Singapore
+172.64.50.237,443,74ms,TCPing,SIN,SG,Asia Pacific,Singapore
+104.18.40.3,443,75ms,TCPing,SIN,SG,Asia Pacific,Singapore
+162.159.11.150,443,75ms,TCPing,SIN,SG,Asia Pacific,Singapore
+162.159.18.192,443,75ms,TCPing,SIN,SG,Asia Pacific,Singapore
+162.159.2.177,443,75ms,TCPing,SIN,SG,Asia Pacific,Singapore
+162.159.20.124,443,75ms,TCPing,SIN,SG,Asia Pacific,Singapore
+162.159.34.125,443,75ms,TCPing,SIN,SG,Asia Pacific,Singapore
+162.159.45.255,443,75ms,TCPing,SIN,SG,Asia Pacific,Singapore
+104.18.46.56,443,77ms,TCPing,46.33MB/s,SIN,SG,Asia Pacific,Singapore
+162.159.2.212,443,75ms,TCPing,45.41MB/s,SIN,SG,Asia Pacific,Singapore
+162.159.62.145,443,76ms,TCPing,42.98MB/s,SIN,SG,Asia Pacific,Singapore
+162.159.5.0,443,76ms,TCPing,39.06MB/s,SIN,SG,Asia Pacific,Singapore
+108.162.194.156,443,76ms,TCPing,35.42MB/s,SIN,SG,Asia Pacific,Singapore
+162.159.43.96,443,76ms,TCPing,35.12MB/s,SIN,SG,Asia Pacific,Singapore
+172.64.32.8,443,76ms,TCPing,33.89MB/s,SIN,SG,Asia Pacific,Singapore
+104.18.39.245,443,76ms,TCPing,32.88MB/s,SIN,SG,Asia Pacific,Singapore
+172.64.152.183,443,76ms,TCPing,31.03MB/s,SIN,SG,Asia Pacific,Singapore
+172.64.155.67,443,76ms,TCPing,26.23MB/s,SIN,SG,Asia Pacific,Singapore
+162.159.19.108,443,75ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+162.159.20.15,443,75ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+162.159.35.5,443,75ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+104.18.38.226,443,76ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+162.159.18.156,443,76ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+162.159.22.64,443,76ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+162.159.34.173,443,76ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+162.159.44.161,443,76ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+172.64.146.45,443,76ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+172.64.147.162,443,76ms,TCPing,,SIN,SG,Asia Pacific,Singapore
+104.17.130.127,443,222ms,TCPing,3.48MB/s,SJC,US,North America,San Jose
+172.64.79.50,443,205ms,TCPing,2.69MB/s,SJC,US,North America,San Jose
+104.17.147.42,443,209ms,TCPing,2.52MB/s,SJC,US,North America,San Jose
+104.17.155.118,443,218ms,TCPing,2.46MB/s,SJC,US,North America,San Jose
+108.162.198.204,443,216ms,TCPing,2.31MB/s,SJC,US,North America,San Jose
+104.17.148.169,443,227ms,TCPing,2.10MB/s,SJC,US,North America,San Jose
+104.17.132.171,443,222ms,TCPing,2.07MB/s,SJC,US,North America,San Jose
+104.17.158.250,443,218ms,TCPing,1.76MB/s,SJC,US,North America,San Jose
+104.17.153.248,443,217ms,TCPing,1.67MB/s,SJC,US,North America,San Jose
+104.17.134.191,443,232ms,TCPing,1.26MB/s,SJC,US,North America,San Jose
+104.17.140.163,443,220ms,TCPing,0.42MB/s,SJC,US,North America,San Jose
+104.17.143.144,443,207ms,TCPing,0.41MB/s,SJC,US,North America,San Jose
+104.17.144.150,443,229ms,TCPing,0.35MB/s,SJC,US,North America,San Jose
+198.41.219.241,443,215ms,TCPing,0.30MB/s,SJC,US,North America,San Jose
+104.17.138.243,443,206ms,TCPing,0.25MB/s,SJC,US,North America,San Jose
+104.17.151.82,443,211ms,TCPing,0.16MB/s,SJC,US,North America,San Jose
